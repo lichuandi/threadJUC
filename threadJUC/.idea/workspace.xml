@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a7dabff-ce7b-452a-95a5-0829beb58742" name="Default Changelist" comment="" />
+    <list default="true" id="5a7dabff-ce7b-452a-95a5-0829beb58742" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/aqs/TestReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/ColorEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/ColorTset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/DataBaseEnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/DataBaseType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/InnerEnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/RGBEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/RGBEnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/SeasonEunm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/SeasonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/TestColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/TestSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/TestSeasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/TypeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/TypeParaEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/enums/TypeParaEnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/executor/FilxedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/jucbao/LockSupportTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/jvm/ClassLoaderLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/log/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/mysql/TestMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/RedisDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/jedis/HashDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/jedis/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/jedis/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/jedis/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/jedis/ZSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/jedisPool/JredisPoolBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/jedisPool/JredisPoolTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/CacheOperationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/SpElBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/SpringRedisTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/UserServiceImplInTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/UserServiceImplWithAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/UserServiceImplWithTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/redis/springJedis/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/reflect/ReflectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/spring/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/spring/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/spring/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/spring/ClassPathXmlApplicationContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/spring/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/spring/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/spring/SpringIocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/string/ObjStrEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/string/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/string/StringDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/thread/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/thread/create/HowTocreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/thread/create/T03_Sleep_Join_Yield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadlocal/Profiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadlocal/ThreadLocal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadlocal/ThreadLocal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadpool/FixedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadpool/MyReject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadpool/ScheduledPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadpool/SingleThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/threadpool/cachedPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/volatiles/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/resources/beans/bean/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/resources/redis-sharedPool.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/resources/redis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/resources/spring-redis-2.0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/resources/spring-redis-sharedPool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threadjuc/src/main/resources/spring-redis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threadjuc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/threadjuc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/atomic/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/atomic/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/atomic/deom.java" beforeDir="false" afterPath="$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/atomic/deom.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,9 +102,14 @@
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="Jenkins.Settings">
     <option name="crumbData" value="http:///crumbIssuer/api/xml?tree=crumb" />
@@ -24,7 +119,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../mavens/apache-maven-3.6.3" />
+        <option name="localRepository" value="D:\mavens\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../mavens/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\mavens\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -34,6 +131,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cGjoWYAMCNX1JCPPgsTqkSN4dz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,30 +146,32 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="C:/jdp/gerrit-oauth-provider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../fa/myCIM4.0" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.Jenkins" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ServerTool\lcdCode\threadJUC\threadjuc\src\main\resources" />
+      <recent name="D:\ServerTool\lcdCode\threadJUC\threadjuc\src\main\java\com\lichuandi\redis" />
+      <recent name="D:\ServerTool\lcdCode\threadJUC\threadjuc\src\main\java\com\lichuandi\redis\jedisPool" />
+      <recent name="D:\ServerTool\lcdCode\threadJUC\threadjuc\src\main\java\com\lichuandi\redis\jedis" />
+      <recent name="D:\ServerTool\lcdCode\threadJUC\threadjuc\src\main\java\com\lichuandi\reflect" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ServerTool\lcdCode\threadJUC\threadjuc\src\main\resources\beans\bean" />
+      <recent name="D:\ServerTool\lcdCode\threadJUC\threadjuc\src\main\resources" />
       <recent name="D:\JavaWorkspace\threadJUC\threadjuc\src\main\resources\" />
       <recent name="D:\JavaWorkspace\threadJUC\threadjuc\src\main\resources\modernjavainaction\" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\JavaWorkspace\threadJUC\threadjuc\src\main\resources\lambdasinaction" />
-      <recent name="D:\JavaWorkspace\threadJUC\threadjuc\src\main\resources\modernjavainaction\chap03\chap05" />
-      <recent name="D:\JavaWorkspace\threadJUC\threadjuc\src\main\resources\modernjavainaction\chap03" />
-      <recent name="D:\JavaWorkspace\threadJUC\threadjuc\src\main\java\com\lichuandi\jdk8\chap06" />
-      <recent name="D:\JavaWorkspace\threadJUC\threadjuc\src\main\java\com\lichuandi\jdk8\chap05" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.JsonElementdDemo">
-    <configuration name="BuildingStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lichuandi.jdk8.chap05.BuildingStreams" />
+  <component name="RunManager" selected="Application.DataBaseEnumTest">
+    <configuration name="DataBaseEnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lichuandi.enums.DataBaseEnumTest" />
       <module name="threadjuc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lichuandi.jdk8.chap05.*" />
+          <option name="PATTERN" value="com.lichuandi.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighCaloriesNames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lichuandi.jdk8.chap04.HighCaloriesNames" />
+    <configuration name="InnerEnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lichuandi.enums.InnerEnumTest" />
       <module name="threadjuc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lichuandi.jdk8.chap04.*" />
+          <option name="PATTERN" value="com.lichuandi.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,41 +192,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonElementdDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lichuandi.googlejson.JsonElementdDemo" />
+    <configuration name="RGBEnumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="threadjuc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lichuandi.googlejson.*" />
+          <option name="PATTERN" value="com.lichuandi.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lichuandi.enums" />
+      <option name="MAIN_CLASS_NAME" value="com.lichuandi.enums.RGBEnumTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lichuandi.googlejson.JsonElements" />
+    <configuration name="SeasonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="threadjuc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lichuandi.googlejson.*" />
+          <option name="PATTERN" value="com.lichuandi.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lichuandi.enums" />
+      <option name="MAIN_CLASS_NAME" value="com.lichuandi.enums.SeasonTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lichuandi.jdk8.chap05.Mapping" />
+    <configuration name="TypeParaEnumTest.TypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="threadjuc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lichuandi.jdk8.chap05.*" />
+          <option name="PATTERN" value="com.lichuandi.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lichuandi.enums" />
+      <option name="MAIN_CLASS_NAME" value="com.lichuandi.enums.TypeParaEnumTest" />
+      <option name="METHOD_NAME" value="TypeTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -140,13 +247,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JsonElementdDemo" />
-        <item itemvalue="Application.JsonElements" />
-        <item itemvalue="Application.Mapping" />
-        <item itemvalue="Application.HighCaloriesNames" />
-        <item itemvalue="Application.BuildingStreams" />
+        <item itemvalue="Application.DataBaseEnumTest" />
+        <item itemvalue="Application.InnerEnumTest" />
+        <item itemvalue="JUnit.RGBEnumTest" />
+        <item itemvalue="JUnit.SeasonTest" />
+        <item itemvalue="JUnit.TypeParaEnumTest.TypeTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -244,81 +354,195 @@
       <workItem from="1617067740402" duration="1299000" />
       <workItem from="1617155618241" duration="4309000" />
       <workItem from="1617243905972" duration="1224000" />
+      <workItem from="1618320554549" duration="536000" />
+      <workItem from="1618327414401" duration="3003000" />
+      <workItem from="1618812273807" duration="4970000" />
+      <workItem from="1618885179822" duration="4278000" />
+      <workItem from="1618999289869" duration="1749000" />
+      <workItem from="1619070124665" duration="766000" />
+      <workItem from="1619095515881" duration="52000" />
+      <workItem from="1619108099392" duration="568000" />
+      <workItem from="1619151838578" duration="1735000" />
+      <workItem from="1619234006501" duration="2254000" />
+      <workItem from="1619426889649" duration="31273000" />
+      <workItem from="1619694594984" duration="591000" />
+      <workItem from="1619753131289" duration="591000" />
+      <workItem from="1619796278700" duration="1300000" />
+      <workItem from="1619806113761" duration="638000" />
+      <workItem from="1619834243963" duration="955000" />
+      <workItem from="1619874242845" duration="596000" />
+      <workItem from="1620009987121" duration="8772000" />
+      <workItem from="1620104158590" duration="602000" />
+      <workItem from="1620232582288" duration="591000" />
+      <workItem from="1620269073862" duration="2604000" />
+      <workItem from="1620360917298" duration="1890000" />
+      <workItem from="1620610036201" duration="590000" />
+      <workItem from="1620624579553" duration="1167000" />
+      <workItem from="1620696807263" duration="452000" />
+      <workItem from="1620782903873" duration="588000" />
+      <workItem from="1620870879867" duration="555000" />
+      <workItem from="1620920812966" duration="587000" />
+      <workItem from="1620925346107" duration="661000" />
+      <workItem from="1620956412182" duration="12798000" />
+      <workItem from="1621002820791" duration="3526000" />
+      <workItem from="1621006454246" duration="7596000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/ServerTool/lcdCode/threadJUC" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="674" y="46" key="#WordCount" timestamp="1610901796867">
+    <state x="611" y="364" key="#Custom_Plugin_Repositories" timestamp="1621005674568">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="674" y="46" key="#WordCount/0.0.1536.824@0.0.1536.824" timestamp="1610901796867" />
-    <state x="932" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610901622869">
+    <state x="611" y="364" key="#Custom_Plugin_Repositories/0.0.1536.824@0.0.1536.824" timestamp="1621005674568" />
+    <state x="395" y="90" key="#Inspections" timestamp="1620041289321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="932" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610901622869" />
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1616478308203">
+    <state x="395" y="90" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1620041289321" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1620986184008">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1616478308203" />
-    <state x="838" y="176" width="438" height="491" key="FileChooserDialogImpl" timestamp="1616498450283">
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620986184008" />
+    <state x="524" y="114" key="#xdebugger.evaluate" timestamp="1619516083275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="838" y="176" width="438" height="491" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616498450283" />
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1617181668884">
+    <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1619516083275" />
+    <state x="838" y="176" width="438" height="491" key="FileChooserDialogImpl" timestamp="1621006935615">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617181668884" />
-    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1617181668884">
+    <state x="838" y="176" width="438" height="491" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621006935615" />
+    <state width="1492" height="281" key="GridCell.Tab.0.bottom" timestamp="1621014954391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617181668884" />
-    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1617181668883">
+    <state width="1492" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621014954391" />
+    <state width="1492" height="281" key="GridCell.Tab.0.center" timestamp="1621014954391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617181668883" />
-    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1617181668884">
+    <state width="1492" height="281" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621014954391" />
+    <state width="1492" height="281" key="GridCell.Tab.0.left" timestamp="1621014954391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617181668884" />
-    <state width="1493" height="225" key="GridCell.Tab.1.bottom" timestamp="1610414992272">
+    <state width="1492" height="281" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621014954391" />
+    <state width="1492" height="281" key="GridCell.Tab.0.right" timestamp="1621014954391">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610414992272" />
-    <state width="1493" height="225" key="GridCell.Tab.1.center" timestamp="1610414992272">
+    <state width="1492" height="281" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621014954391" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1619538022505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610414992272" />
-    <state width="1493" height="225" key="GridCell.Tab.1.left" timestamp="1610414992272">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619538022505" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1619538022504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610414992272" />
-    <state width="1493" height="225" key="GridCell.Tab.1.right" timestamp="1610414992272">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1619538022504" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1619538022504">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="225" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610414992272" />
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1610967769577">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1619538022504" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1619538022505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1610967769577" />
-    <state x="353" y="56" key="SettingsEditor" timestamp="1615443496671">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1619538022505" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1619450011089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="353" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615443496671" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1619450011089" />
+    <state x="298" y="113" key="SettingsEditor" timestamp="1621007209731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="113" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1621007209731" />
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2" timestamp="1618821652000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="0" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1618821652000" />
     <state width="792" height="822" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1614075474194">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="792" height="822" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1536.824@0.0.1536.824" timestamp="1614075474194" />
-    <state x="356" y="64" key="new project wizard" timestamp="1610530643986">
+    <state x="467" y="115" width="931" height="594" key="find.popup" timestamp="1620041673054">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="356" y="64" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1610530643986" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1614583598729">
+    <state x="467" y="115" width="931" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1620041673054" />
+    <state x="481" y="199" key="git4idea.merge.GitPullDialog" timestamp="1618812293657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1614583598729" />
+    <state x="481" y="199" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1618812293657" />
+    <state x="356" y="64" key="new project wizard" timestamp="1618889778115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="64" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1618889778115" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1620973613558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1620973613558" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621014161110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621014161110" />
+    <state x="374" y="95" key="spring file set editor" timestamp="1620041526497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1620041526497" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/atomic/deom.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/concurrent/juc/utils/ConditionExample4.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/threadjuc/src/main/java/com/lichuandi/aqs/TestReentrantLock.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/threadJUC$WordCount.ic" NAME="WordCount Coverage Results" MODIFIED="1610967960433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
