@@ -5,10 +5,13 @@ package com.lichuandi.jdk8.chap01;
  * @Date 2021/3/1
  * @Description：com.lichuandi.jdk8.chap01 version：1
  */
+import com.google.common.collect.Lists;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;
+import java.util.function.Supplier;
 
 public class FilteringApples {
 
@@ -18,9 +21,9 @@ public class FilteringApples {
                 new Apple(155, "green"),
                 new Apple(120, "red")
         );
-
         // [Apple{color='green', weight=80}, Apple{color='green', weight=155}]
         List<Apple> greenApples = filterApples(inventory, FilteringApples::isGreenApple);
+
         System.out.println(greenApples);
 
         // [Apple{color='green', weight=155}]
@@ -112,4 +115,26 @@ public class FilteringApples {
 
     }
 
+}
+interface A {
+    default void hello() {
+    System.out.println("Hello A");
+    }
+}
+interface B extends A {
+    @Override
+    default void hello() {
+        System.out.println("Hello B");
+    }
+}
+class C implements A {
+
+    @Override
+    public void hello() {
+        A.super.hello();
+    }
+
+    public static void main(String[] args){
+        new C().hello();
+    }
 }
